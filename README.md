@@ -1,6 +1,8 @@
 # MonoGame Pixi Particles
 
-A particle system for the [MonoGame](https://github.com/MonoGame/MonoGame) library, ported to C# from [Pixi-Particles](https://github.com/pixijs/pixi-particles) Also, see [interactive particle editor](http://pixijs.github.io/pixi-particles-editor/) to design and preview custom particle emitters which utilitze PixiParticles.
+A particle system for the [MonoGame](https://github.com/MonoGame/MonoGame) library, ported to C# from [Pixi-Particles](https://github.com/pixijs/pixi-particles)
+
+Also, see [interactive particle editor](http://pixijs.github.io/pixi-particles-editor/) to design and preview custom particle emitters which utilitze PixiParticles.
 
 ## Documentation
 
