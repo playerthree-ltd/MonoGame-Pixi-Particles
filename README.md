@@ -4,6 +4,8 @@ A particle system for the [MonoGame](https://github.com/MonoGame/MonoGame) libra
 
 Also, see [interactive particle editor](http://pixijs.github.io/pixi-particles-editor/) to design and preview custom particle emitters which utilize PixiParticles.
 
+![Alt text](particle_screenshot.png?raw=true "Fire Example")
+
 ## Documentation
 
 http://pixijs.github.io/pixi-particles/docs/
