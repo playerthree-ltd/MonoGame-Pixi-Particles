@@ -4,7 +4,7 @@ A particle system for the [MonoGame](https://github.com/MonoGame/MonoGame) libra
 
 Original system made by [CloudKid](http://github.com/cloudkidstudio)
 
-Also, see the [interactive particle editor](http://pixijs.github.io/pixi-particles-editor/) to design and preview custom particle emitters which utilize PixiParticles.
+Also, see the [interactive particle editor](http://pixijs.github.io/pixi-particles-editor/) to design and preview custom particle emitters.
 
 ![Alt text](particle_screenshot.png?raw=true "Fire Example")
 
