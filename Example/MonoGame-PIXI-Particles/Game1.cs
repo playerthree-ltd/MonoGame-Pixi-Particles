@@ -124,7 +124,10 @@ namespace MonoGame_PIXI_Particles
             {
                 var particle = (Sprite)particles[i];
 
-                Vector2 origin = new Vector2(particle.TextureRegion.Size.X * particle.Anchor.X - particle.TextureRegion.Trim.X, 
+                if (GraphicsDevice.BlendState != particle.Material.blendState)
+                    GraphicsDevice.BlendState = particle.Material.blendState;
+
+                Vector2 origin = new Vector2(particle.TextureRegion.Size.X * particle.Anchor.X - particle.TextureRegion.Trim.X,
                     particle.TextureRegion.Size.Y * particle.Anchor.Y - particle.TextureRegion.Trim.Y);
 
                 spriteBatch.Draw(
