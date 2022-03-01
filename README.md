@@ -66,7 +66,7 @@ spriteBatch.End();
 
 Original docs should be fine for reference, just use PascalCase instead of camelCase where appropriate. 
 
-http://pixijs.github.io/pixi-particles/docs/
+https://pixijs.io/particle-emitter/docs/
 
 ## License
 
